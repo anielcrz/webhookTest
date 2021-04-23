@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.WebHooks.Receivers" Version="1.0.0-preview2-final" />
+    <PackageReference Include="NEST" Version="7.12.1" />
   </ItemGroup>
 
 </Project>
